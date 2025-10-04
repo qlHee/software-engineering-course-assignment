@@ -1,5 +1,5 @@
 This project, in accordance with the course instructor’s requirements, uses D3.js to visualize a dataset from SNAP. The selected dataset contains approximately 1,000 users or institutions and about 330,000 directed email interactions between them.
 
-The project displays a chord diagram on a webpage showing the email exchanges among the top x users with the highest sending and receiving counts. Users can customize the value of x and select specific users to view their email sending and receiving trends.
+   The project displays a chord diagram on a webpage showing the email exchanges among the top x users with the highest sending and receiving counts. Users can customize the value of x and select specific users to view their email sending and receiving trends.
 
-The SNAP dataset is anonymized, lacks attribute information, mostly dates back to 2000–2010, and is very large. Therefore, it is more suitable for algorithmic research on graph structures and machine learning rather than data visualization. I think the project requirements are poorly designed, but I have no choice but to meet them.
+   The SNAP dataset is anonymized, lacks attribute information, mostly dates back to 2000–2010, and is very large. Therefore, it is more suitable for algorithmic research on graph structures and machine learning rather than data visualization. I think the project requirements are poorly designed, but I have no choice but to meet them.
