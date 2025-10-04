@@ -1,0 +1,14 @@
+{
+  "name": "@d3/chord-dependency-diagram/2",
+  "main": "4cddacef5317f8b8@367.js",
+  "version": "367.0.0",
+  "homepage": "https://observablehq.com/@d3/chord-dependency-diagram/2",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
